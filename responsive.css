@@ -4,7 +4,7 @@
 }
 
 
-@@media (max-width:750px) {
+@@media (max-width:350px) {
   .lesson{
     margin: 0 auto;
     width:80%;
