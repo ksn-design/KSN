@@ -4,10 +4,10 @@
 }
 
 
-@@media (max-width:350px) {
+@@media (max-width:670px) {
   .lesson{
     margin: 0 auto;
-    width:80%;
+    width:100%;
   }
   .container{
     height:70px;
@@ -15,5 +15,19 @@
   }
   .container h1{
     font-size:20px;
+  }
+  .footer{
+    text-align: center;
+  }
+  .titles{
+    text-align:left;
+    padding-top:130px;
+
+  }
+  .titles h2{
+    font-size:14px;
+  }
+  .container p{
+    display: none;
   }
 }
