@@ -1,0 +1,12 @@
+@media(max-widht:1000px){
+
+
+}
+
+
+@@media (max-width:670px) {
+  .lessons{
+    margin: 0 auto;
+    width:80%;
+  }
+}
