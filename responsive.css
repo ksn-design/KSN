@@ -4,7 +4,7 @@
 }
 
 
-@@media (max-width:670px) {
+@@media (max-width:750px) {
   .lesson{
     margin: 0 auto;
     width:80%;
@@ -14,6 +14,6 @@
 
   }
   .container h1{
-    font-size:10px;
+    font-size:20px;
   }
 }
