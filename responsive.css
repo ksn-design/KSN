@@ -1,0 +1,11 @@
+@media(max-widht:1000px){
+
+
+}
+
+
+@@media (max-width:670px) {
+  .titles{
+    width:100%;
+  }
+}
