@@ -1,0 +1,19 @@
+@media(max-widht:1000px){
+
+
+}
+
+
+@@media (max-width:670px) {
+  .lessons{
+    margin: 0 auto;
+    width:80%;
+  }
+  .container{
+    height:70px;
+
+  }
+  .container h1{
+    font-size:20px;
+  }
+}
