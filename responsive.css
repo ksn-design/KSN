@@ -36,4 +36,8 @@
   .titles{
     padding-top: 30px;
   }
+  .btn-container{
+    line-height: 50%;
+    text-align: right;
+  }
 }
