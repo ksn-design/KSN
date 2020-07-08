@@ -140,8 +140,7 @@ header{
 .contents-item p{
   position: absolute;
   top: 44%;
-    /* place-items: center; */
-  padding-left:38%;
+  margin-left: 35%;
   opacity: 0.7;
   color:white;
   font-weight: bold;
